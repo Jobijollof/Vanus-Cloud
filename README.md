@@ -1,4 +1,4 @@
-# Vanus-Cloud
+# Vanus-Cloud 
 
 ### Introduction
 
@@ -28,3 +28,12 @@ It is an open-source project, which means that it is free to use, modify, and di
 
 Super easy to use
 One-click deployment, the installation is completed within 1 minute, and developers without MQ experience can also use it.
+
+### Vanus workshop
+
+log in to [cloud vanus.ai](https://www.vanus.ai/)
+
+### Vanus Templates 
+ These are pre-configurred event triggers.
+
+- Connectors

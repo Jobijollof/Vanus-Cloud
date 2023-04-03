@@ -60,25 +60,43 @@ These are pre-configurred event triggers.
  ![try-now](https://user-images.githubusercontent.com/113374279/229466681-1d628843-5c04-457a-a4a2-51e4496a30b7.png)
  
  ### Authourise Source connector
+ 
  Github
- ![authorise](https://user-images.githubusercontent.com/113374279/229470662-4932f154-2027-4f0c-b86e-0a3d3e6fca70.png)
 
+![authorise](https://user-images.githubusercontent.com/113374279/229470662-4932f154-2027-4f0c-b86e-0a3d3e6fca70.png)
+
+  You would have to authorize access to your github account.
  
- You would have to authorize access to your github account.
+
+![authorise-github](https://user-images.githubusercontent.com/113374279/229470273-f93a5748-a3ea-491b-a83f-4e1a01f9e57b.png)
  
- ![authorise-github](https://user-images.githubusercontent.com/113374279/229470273-f93a5748-a3ea-491b-a83f-4e1a01f9e57b.png)
- 
- After authourisation you willbe re-directed to Vanus Cloud
+
+After authourisation you willbe re-directed to Vanus Cloud
  
  - Pick the repo you want the trigger for
  - Click on next
  
  ### Authorise the Sink Connector
  
+ Get webhook url for slack Channel to send trigger
+ 
+ Useful article to get [slack-webhook-url](https://support.accelq.com/hc/en-us/articles/4403072462605-Create-a-Webhook-URL-for-a-Slack-channel)
+ 
+ - Insert  webhook url
+ 
+ ![webhook-url](https://user-images.githubusercontent.com/113374279/229489103-4ce87bfd-a747-4180-b403-000cf48acc41.png)
+ 
+ ![running](https://user-images.githubusercontent.com/113374279/229489336-843433de-b71d-4e82-be86-a65c3c3c5ae2.png)
+ 
+ - Go ahead and star the repo
+ 
+ ![star](https://user-images.githubusercontent.com/113374279/229489745-96ed8d63-4c11-477c-bdd0-f4617df9155e.png)
+
+
+
+ 
+ 
  
 
  
 
-
-
-- Connectors

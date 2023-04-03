@@ -59,14 +59,23 @@ These are pre-configurred event triggers.
  
  ![try-now](https://user-images.githubusercontent.com/113374279/229466681-1d628843-5c04-457a-a4a2-51e4496a30b7.png)
  
+ ### Authourise Source connector
+ Github
  ![authorise](https://user-images.githubusercontent.com/113374279/229470662-4932f154-2027-4f0c-b86e-0a3d3e6fca70.png)
 
  
- You would have to authorsie access to your github account.
+ You would have to authorize access to your github account.
  
  ![authorise-github](https://user-images.githubusercontent.com/113374279/229470273-f93a5748-a3ea-491b-a83f-4e1a01f9e57b.png)
  
  After authourisation you willbe re-directed to Vanus Cloud
+ 
+ - Pick the repo you want the trigger for
+ - Click on next
+ 
+ ### Authorise the Sink Connector
+ 
+ 
 
  
 

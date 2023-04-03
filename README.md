@@ -33,6 +33,19 @@ One-click deployment, the installation is completed within 1 minute, and develop
 
 log in to [cloud vanus.ai](https://www.vanus.ai/)
 
+[vanus.txt](https://github.com/Jobijollof/Vanus-Cloud/files/11136546/vanus.txt)
+
+- Sign in
+
+![sign-in](https://user-images.githubusercontent.com/113374279/229461551-858a8488-c56e-454b-ad4f-ce34ec395862.png)
+
+- Fill in your bio data. In the space of Company name you can specify individual if you do not work or own a company.
+
+![bio-data](https://user-images.githubusercontent.com/113374279/229462123-df645679-1b01-452c-843d-8fbf965f61e6.png)
+
+
+
+
 ### Vanus Templates 
  These are pre-configurred event triggers.
 

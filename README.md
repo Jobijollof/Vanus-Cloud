@@ -35,8 +35,6 @@ One-click deployment, the installation is completed within 1 minute, and develop
 
 log in to [cloud vanus.ai](https://www.vanus.ai/)
 
-[vanus.txt](https://github.com/Jobijollof/Vanus-Cloud/files/11136546/vanus.txt)
-
 - Sign in
 
 ![sign-in](https://user-images.githubusercontent.com/113374279/229461551-858a8488-c56e-454b-ad4f-ce34ec395862.png)

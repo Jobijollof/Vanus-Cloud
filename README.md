@@ -31,7 +31,7 @@ One-click deployment, the installation is completed within 1 minute, and develop
 
 ### Vanus Demo
 
-Creating a connection that sends cloud events to slack
+***GitHub star event that triggers a Slack message***
 
 log in to [cloud vanus.ai](https://www.vanus.ai/)
 
@@ -51,9 +51,25 @@ log in to [cloud vanus.ai](https://www.vanus.ai/)
 
 ### Vanus Templates
 
- These are pre-configurred event triggers.
+These are pre-configurred event triggers.
  
  ![choose template](https://user-images.githubusercontent.com/113374279/229463718-359e3d06-7e3e-44c9-9d91-cad7a455ba01.png)
+ 
+ We are going to choose the template with `GitHub star event that triggers a Slack message`. 
+ 
+ ![try-now](https://user-images.githubusercontent.com/113374279/229466681-1d628843-5c04-457a-a4a2-51e4496a30b7.png)
+ 
+ ![authorise](https://user-images.githubusercontent.com/113374279/229470662-4932f154-2027-4f0c-b86e-0a3d3e6fca70.png)
+
+ 
+ You would have to authorsie access to your github account.
+ 
+ ![authorise-github](https://user-images.githubusercontent.com/113374279/229470273-f93a5748-a3ea-491b-a83f-4e1a01f9e57b.png)
+ 
+ After authourisation you willbe re-directed to Vanus Cloud
+
+ 
+
 
 
 - Connectors
